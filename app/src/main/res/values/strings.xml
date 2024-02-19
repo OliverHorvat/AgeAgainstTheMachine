@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Age Against The Machine</string>
+    <string name="app_name">Age Against the Machine</string>
     <string name="gallery">Gallery</string>
     <string name="camera">Camera</string>
     <string name="instruction">Please input image from camera or gallery</string>
