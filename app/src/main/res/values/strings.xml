@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Age Against The Machine</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="instruction">Please input image from camera or gallery</string>
+    <string name="face_detected">"Face detected, please wait a moment"</string>
+    <string name="face_not_detected">No face detected, please import another image</string>
+    <string name="predicted_age">Predicted age:</string>
+    <string name="permission_camera">Permission to use the camera has been denied. Please update your permissions in the device settings to enable camera access for this application.</string>
+    <string name="permission_gallery">Permission to use the gallery has been denied. Please update your permissions in the device settings to enable camera access for this application.</string>
+</resources>
